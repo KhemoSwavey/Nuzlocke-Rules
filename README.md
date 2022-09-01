@@ -24,7 +24,8 @@ Pokemon Nuzlocke Rules:
     Pokemon into the pc (deadbox)
 
 #10: The run doesn't start until we receive 
-     our pokeballs
+     our pokemon
+     
 --------------------
 Pokemon Hardcore Nuzlocke Rules:
 --------------------
