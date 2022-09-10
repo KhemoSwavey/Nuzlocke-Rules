@@ -57,36 +57,6 @@ Pokemon Hardcore Nuzlocke Rules:
 Pokemon Monolocke Rules:
 --------------------
 
-#1: Any pokemon that faints is put into the pc
-    (deadbox) for the rest of the run.
-
-#2: I am able to catch All Pokemon of that type
-if they're avaliable in the area.
-
-#3: Species clause.
-
-#4: I MUST rename ALL pokemon.
-
-#5: If I white out, I MUST restart.
-
-#6: I cannot over level the next gym leader.
-
-#7: I cannot capture/use any legendary/mythical
-Pokemon.
-
-#8: Shiny Clause.
-
-#9: If my starter isnt the typing of the monolocke
-I MUST put it into the PC as soon as I get a 
-Pokemon of the Monotype.
-
-#10: The Run doesn't start until we recieve our
-Pokeballs.
-
---------------------
-Pokemon Monolocke Rules:
---------------------
-
 #1: If a Pokemon faints, it goes into the PC for
 the rest of the game.
 
