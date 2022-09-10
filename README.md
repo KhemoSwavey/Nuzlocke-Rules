@@ -84,7 +84,7 @@ Pokemon of the Monotype.
 Pokeballs.
 
 --------------------
-Pokemon Hardcore Nuzlocke Rules:
+Pokemon Monolocke Rules:
 --------------------
 
 #1: If a Pokemon faints, it goes into the PC for
