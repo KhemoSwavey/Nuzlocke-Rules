@@ -82,3 +82,38 @@ Pokemon of the Monotype.
 
 #10: The Run doesn't start until we recieve our
 Pokeballs.
+
+--------------------
+Pokemon Hardcore Nuzlocke Rules:
+--------------------
+
+#1: If a Pokemon faints, it goes into the PC for
+the rest of the game.
+
+#2: I can only catch the 1st Monotyping I 
+Encounter ib each new area/zone.
+(exception is safari zone)
+
+#3: Dupes Clause.
+
+#4: Shiny Clause.
+
+#5: Cannot use Legends/Mythicals.
+
+#6: Can't over level the next gym leader's 
+highest level pokemon.
+
+#7: If I white out, I MUST restart.
+
+#8: I MUST rename all my Pokemon.
+
+#9: If I start with a Pokemon that isn't the
+Monotyping of the run, after I capture one
+that is I MUST place my starter in the PC for
+the rest of the run.
+
+#10: The run doesn't Officially start until I
+Obtain my pokeballs.
+
+#11: I am able to capture Pokemon that aren't
+apart of the monotyping if I need them for HMs.
